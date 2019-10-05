@@ -10,7 +10,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/krl(5).pdf" style="text-decoration:none;">Economic and Philosophic Manuscripts of 1844</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/krl(6).pdf" style="text-decoration:none;">Grundrisse</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/krl(7).pdf" style="text-decoration:none;">Herr Vogt</a></b></li>                                
-                                
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/krl(8).pdf" style="text-decoration:none;">Capital: A Critique of Political Economy, Volume I</a></b></li>                                 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/krl(9).pdf" style="text-decoration:none;">Pre-Capitalist Economic Formations </a></b></li>
 
@@ -47,5 +47,11 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/krl(24).pdf" style="text-decoration:none;">Wage Labour and Capital </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/krl(25).pdf" style="text-decoration:none;">On colonialism</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/krl(26).pdf" style="text-decoration:none;">Capital: A Critique of Political Economy, Volume II</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-by-Karl-Marx/blob/master/krl(27).pdf" style="text-decoration:none;">Capital: A Critique of Political Economy, Volume III</a></b></li>  
+
+
+
 
 </ul>
